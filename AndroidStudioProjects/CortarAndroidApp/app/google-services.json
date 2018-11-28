@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "643226583266",
+    "firebase_url": "https://loginappfirebase-8106f.firebaseio.com",
+    "project_id": "loginappfirebase-8106f",
+    "storage_bucket": "loginappfirebase-8106f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643226583266:android:d2821caa3b09ee25",
+        "android_client_info": {
+          "package_name": "com.example.user.cortarandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643226583266-qpqvt4nagjmbg0fri7bsvnpobocke48q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.cortarandroidapp",
+            "certificate_hash": "c0f62d908beb1e3d1daf0a983b1e8e118d989fb0"
+          }
+        },
+        {
+          "client_id": "643226583266-fmej46p1rg9d70drn06n0kr7cl1p80c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-_fSkp3kWm7gef2-pMayGx25PlmdJqYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643226583266-fmej46p1rg9d70drn06n0kr7cl1p80c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

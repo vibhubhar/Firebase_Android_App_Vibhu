@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CortarAndroidApp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_success_login">SuccessLogin</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="web_client_id">643226583266-p95a7e1s2bvsifdphf3h72ior77lm9nk.apps.googleusercontent.com</string>
+</resources>
